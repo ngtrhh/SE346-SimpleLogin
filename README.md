@@ -1,4 +1,4 @@
-## SE346 - Exercise 1 - Simmple Login
+### SE346 - Exercise 1 - Simmple Login
 Exercise: Creating an simple login application with:
    * Username: "user" 
    * Password: "123456"
